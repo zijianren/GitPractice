@@ -1,0 +1,10 @@
+ Volume in drive E is ϵͳ
+ Volume Serial Number is B42D-4AAB
+
+ Directory of E:\Git Example
+
+10/24/2019  01:13 PM    <DIR>          .
+10/24/2019  01:13 PM    <DIR>          ..
+10/24/2019  01:13 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  15,848,284,160 bytes free
